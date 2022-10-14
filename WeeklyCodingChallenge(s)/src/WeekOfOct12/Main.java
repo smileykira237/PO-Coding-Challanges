@@ -39,7 +39,7 @@ public class Main {
 		}
 	}
 		
-		return "No ntersection found";
+		return "No intersection found";
 
 	}
 	
