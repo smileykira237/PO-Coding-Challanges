@@ -51,7 +51,7 @@ public class Main {
 			x.add(one.get(i));
 			if(x.size() != i + 1) {
 				y = i;
-				return "Circle found at node: " + one.get(y);
+				return "Circle found at node " + one.get(y);
 			}
 		}
 		return "No circle found";
